@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lindabout.github.io/static/css/main.4da3a9e2.css",
+    "main.js": "/lindabout.github.io/static/js/main.111731f8.js",
+    "static/media/cv.pdf": "/lindabout.github.io/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/lindabout.github.io/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/lindabout.github.io/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/lindabout.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/lindabout.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/lindabout.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/lindabout.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/lindabout.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/lindabout.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/lindabout.github.io/index.html",
+    "main.4da3a9e2.css.map": "/lindabout.github.io/static/css/main.4da3a9e2.css.map",
+    "main.111731f8.js.map": "/lindabout.github.io/static/js/main.111731f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da3a9e2.css",
+    "static/js/main.111731f8.js"
+  ]
+}
